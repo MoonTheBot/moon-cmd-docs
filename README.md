@@ -43,7 +43,7 @@ the commands are as they follow on this page.
 
 `--nickname`: **checks person nickname for invites**
 
-### utility aliases
+## utility aliases
 `userinfo` => `ui`
 
 `serverinfo` => `si` => `serverinformation`
