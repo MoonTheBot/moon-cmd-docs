@@ -36,6 +36,7 @@ the commands are as they follow on this page.
 
 ## utility extenders
 **for check:**
+
 `--playing`: **even tho playing check its default, i just added this..**
 
 `--username`: **checks person username for invites**
